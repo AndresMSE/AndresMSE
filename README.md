@@ -13,10 +13,11 @@
  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://camo.githubusercontent.com/20c76c8f438a117ce6a191333abdce393ce277611d859de75912931c0337acc6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323636372f504e472f3531322f666f6c6465725f6c617465785f7465785f69636f6e5f3136313238392e706e67" alt="latex" width="40" height="40"/> </a> </p>
 <h3 align="left"> Currently learning: </h3>
  <p align=left>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> <a href="https://keras.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> </a> 
-<img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" alt="qiskit" width="40" height="40"/> </a> <a href="https://qiskit.org/" target="_blank"> </a>
-<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> </a>
+<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> 
+<a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://qiskit.org/" target="_blank">
+<img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" alt="qiskit" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height="40"/> </a>
  </p>
 
 ## Some of my GitHub stats :octocat:

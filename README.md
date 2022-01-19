@@ -22,7 +22,8 @@
 ## A little about me 🐺
 
 ###  Just listened 🎧
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22qdbxra7atbwfyppq34cbihy&unique={true|1|on|yes})](https://open.spotify.com/user/22qdbxra7atbwfyppq34cbihy)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=22qdbxra7atbwfyppq34cbihy&unique=true&count=2)](https://open.spotify.com/user/22qdbxra7atbwfyppq34cbihy)
+
 <!---
 AndresMSE/AndresMSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

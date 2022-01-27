@@ -10,6 +10,7 @@
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank">
 <img src="https://camo.githubusercontent.com/64bfb64ead15f4d2fe66c1dd2b132a99b1caf1cddb77f57ad5815f9bf94a3d89/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/7215419fc9a59823fd34231f923d2c98ef4e72df17d30c9a3837058388900487/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f37302f504e472f3531322f7562756e74755f31343134332e706e67" alt="linux" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/logomark-white@2x.png" alt="git" width="40" height="40"/> </a>
  <a href="https://www.latex-project.org/" target="_blank"> <img src="https://camo.githubusercontent.com/20c76c8f438a117ce6a191333abdce393ce277611d859de75912931c0337acc6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323636372f504e472f3531322f666f6c6465725f6c617465785f7465785f69636f6e5f3136313238392e706e67" alt="latex" width="40" height="40"/> </a> </p>
 <h3 align="left"> Currently learning: </h3>
  <p align=left>

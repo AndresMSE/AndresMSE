@@ -8,14 +8,18 @@
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank">
-<img src="https://camo.githubusercontent.com/64bfb64ead15f4d2fe66c1dd2b132a99b1caf1cddb77f57ad5815f9bf94a3d89/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://camo.githubusercontent.com/7215419fc9a59823fd34231f923d2c98ef4e72df17d30c9a3837058388900487/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f37302f504e472f3531322f7562756e74755f31343134332e706e67" alt="linux" width="40" height="40"/> </a>
+<img src="https://w7.pngwing.com/pngs/449/527/png-transparent-matlab-tutorial-computer-software-engineering-data-analysis-creative-writing-miscellaneous-angle-triangle-thumbnail.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180330/vsq/kisspng-computer-icons-linux-logo-encapsulated-postscript-linux-5abe1677eebc12.9191157315224070319779.jpg" alt="linux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logos/logomark-white@2x.png" alt="git" width="40" height="40"/> </a>
- <a href="https://www.latex-project.org/" target="_blank"> <img src="https://camo.githubusercontent.com/20c76c8f438a117ce6a191333abdce393ce277611d859de75912931c0337acc6/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323636372f504e472f3531322f666f6c6465725f6c617465785f7465785f69636f6e5f3136313238392e706e67" alt="latex" width="40" height="40"/> </a> </p>
+ <a href="https://www.latex-project.org/" target="_blank"> <img src="https://banner2.cleanpng.com/20180629/hjt/kisspng-latex-tex-live-typesetting-text-editor-tex-5b35eeb289e0b6.1909910215302611705648.jpg" alt="latex" width="40" height="40"/> </a> 
+ <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> 
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 <h3 align="left"> Currently learning: </h3>
  <p align=left>
-<a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+
+ <a href="https://cloud.google.com/?hl=es" target="_blank"> <img src="https://banner2.cleanpng.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-5d01a5ae4d22e9.530730771560389038316.jpg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/fastapi-icon-512x512-a7ggfxfw.png" alt="fastapi" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://qiskit.org/" target="_blank">
 <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" alt="qiskit" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="40" height="40"/> </a>

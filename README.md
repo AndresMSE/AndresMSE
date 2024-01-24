@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-AndresMSE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AndresMSE/)](https://www.github.com/AndresMSE/)
 [![Linkedin Badge](https://img.shields.io/badge/-andresmse-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresmse/)](https://www.linkedin.com/in/andresmse/)
 ![](https://komarev.com/ghpvc/?username=AndresMSE)
-<h3 align="center">Undergrate student in Biomedical Physics interested in neuroscience and bio-signal analysis within BCI, optics and artificial inteligence research and applications in industry. I'm currently working on my Data Scientist path</h3>
+<h3 align="center"> Biomedical Physicist interested in neuroscience and bio-signal analysis within BCI, optics and artificial inteligence research and applications in industry. Data scientist on weekdays Muscician on weekends.</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

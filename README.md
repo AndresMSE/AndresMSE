@@ -18,7 +18,7 @@
  <p align=left>
 
  <a href="https://cloud.google.com/?hl=es" target="_blank"> <img src="https://banner2.cleanpng.com/20190612/vok/kisspng-cloud-computing-google-cloud-platform-cloud-storag-google-cloud-logo-png-image-free-download-searchpn-5d01a5ae4d22e9.530730771560389038316.jpg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png" alt="fastapi" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikiversity/en/thumb/8/8c/FastAPI_logo.png/800px-FastAPI_logo.png" alt="fastapi" width="70" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" alt="docker" width="40" height="40"/> </a> 
 <a href="https://qiskit.org/" target="_blank">
 <img src="https://qiskit.gallerycdn.vsassets.io/extensions/qiskit/qiskit-vscode/0.5.5/1558430568405/Microsoft.VisualStudio.Services.Icons.Default" alt="qiskit" width="40" height="40"/> </a> 

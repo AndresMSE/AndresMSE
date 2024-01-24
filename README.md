@@ -7,6 +7,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="python" width="60" height="40"/> </a>
 <a href="https://la.mathworks.com/products/matlab.html" target="_blank">
 <img src="https://w7.pngwing.com/pngs/449/527/png-transparent-matlab-tutorial-computer-software-engineering-data-analysis-creative-writing-miscellaneous-angle-triangle-thumbnail.png" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://w7.pngwing.com/pngs/421/366/png-transparent-ubuntu-computer-icons-logo-computer-servers-others-text-orange-logo.png" alt="linux" width="40" height="40"/> </a>
